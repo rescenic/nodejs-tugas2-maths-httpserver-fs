@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-tugas2",
+  "version": "1.0.0",
+  "description": "Belajar Node.JS ",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Ridwan Hakim",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
